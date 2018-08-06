@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+     Tim       Tim@git.training  @awesometim 
 # THANKS
 
     <name>
