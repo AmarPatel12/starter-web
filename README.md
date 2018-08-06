@@ -13,7 +13,8 @@ This is just a simple example
 
 ## Deployment 2 
 
-This is an updated version! 
+Content to be added!
 
+This us an introduction...
 
 2018 Git-Training! 
