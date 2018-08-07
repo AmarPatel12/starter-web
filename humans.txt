@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
      Tim       Tim@git.training  @awesometim 
 # THANKS
-
+     Thank you
     <name>
 
 # TECHNOLOGY COLOPHON
