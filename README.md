@@ -18,4 +18,6 @@ Content to be added!
 
 This us an introduction...
 
-2018 Git-Training! 
+###Copyright
+
+2018 Git-Training! All rights reserved 
